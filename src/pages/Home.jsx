@@ -1,8 +1,8 @@
 import React from "react";
 
-import './styles/Home.css'
+import "./styles/Home.css";
 
-import Buttons from '../components/ButtonsHome'
+import Buttons from "../components/ButtonsHome";
 
 function Home() {
   return (
