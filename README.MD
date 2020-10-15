@@ -31,13 +31,7 @@ ELIGIENDO ALGORITMOS:
 - Quick Sort.
 
 
-            <div class="buttons">
-                <button>Selection Sort</button>
-                <button>Bubble Sort</button>
-                <button>Recursive Bubble Sort</button>
-                <button>Insertion Sort</button>
-                <button>Recursive Insertion Sort</button>
-                <button>Merge Sort</button>
-                <button>Iterative Merge Sort</button>
-                <button>Quick Sort</button>
-            </div>
+
+
+IDEAS:
+correr todos juntos y premiar los mas rapidos
